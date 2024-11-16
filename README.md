@@ -27,3 +27,6 @@ Technical Requirements:
 1. Python Version: Python 3.x
 2. Libraries: None required
 3. Input/Output: Command-line interface (CLI)
+
+
+![Screenshot 2024-11-16 133715](https://github.com/user-attachments/assets/830af067-8f91-45df-9621-9f8d4a90dea5)
